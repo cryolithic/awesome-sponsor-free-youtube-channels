@@ -4,49 +4,37 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Sponsor-Free Youtube Channels [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/actions/workflows/lint.yaml/badge.svg)](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/actions/workflows/lint.yaml)
+# Awesome Sponsor-Free YouTube Channels [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/actions/workflows/lint.yaml/badge.svg)](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-Awesome Youtube Channels, without the sponsors
+Awesome YouTube Channels, without the sponsors
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/3f87e78c-6675-4fd1-918d-a2ec873586b7" />
+<a href="www.youtube.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3f87e78c-6675-4fd1-918d-a2ec873586b7" width="200" />
 </a>
-
-<!-- description -->
-
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
 
 <!-- TOC -->
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Technology](#technology)
+- [Science](#science)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Technology
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Louis Rossman](https://www.youtube.com/@rossmanngroup) - The inspiration for this list.
+- [EEVblog](https://www.youtube.com/@EEVblog) - Electrical engineering, hobbyists, makers.
 
-## Section 1
+## Science
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Russell Barkley, PhD - Dedicated to ADHD Science+](https://www.youtube.com/@russellbarkleyphd2023) - The best ADHD resource on YouTube
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
@@ -54,4 +42,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/graphs/contributors)!
