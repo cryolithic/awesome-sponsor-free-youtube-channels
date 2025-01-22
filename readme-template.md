@@ -13,8 +13,7 @@ Awesome Youtube Channels, without the sponsors
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="![yt_logo_rgb_dark](https://github.com/user-attachments/assets/3f87e78c-6675-4fd1-918d-a2ec873586b7)
-" />
+  <img src="https://github.com/user-attachments/assets/3f87e78c-6675-4fd1-918d-a2ec873586b7" />
 </a>
 
 <!-- description -->
