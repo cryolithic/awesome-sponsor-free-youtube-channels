@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Sponsor-Free Youtube Channels [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/actions/workflows/lint.yaml/badge.svg)](https://github.com/cryolithic/awesome-sponsor-free-youtube-channels/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+Awesome Youtube Channels, without the sponsors
 
 <!-- image -->
 
@@ -21,8 +21,6 @@ A template for an awesome list with required conventions out of the box!
 A one line description of the product or tool. See
 [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
 example.
-
-</div>
 
 <!-- TOC -->
 
